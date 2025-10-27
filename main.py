@@ -8,3 +8,8 @@ for i in arr:
 print("labas rytas!")
 print("labas rytas!")
 print("labas rytas!")
+print(":)")
+print(":)")
+print(":)")
+print(":)")
+print(":)")
